@@ -1,1 +1,1 @@
-It's all in the wiki.
+here: https://github.com/LA-Architecture-Club/reference/wiki
